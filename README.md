@@ -1,0 +1,1 @@
+Here I will be collecting files for the 2020 Advent of Code. Some of the code will be ugly, but I'm just familiarizing myself with Python again.
